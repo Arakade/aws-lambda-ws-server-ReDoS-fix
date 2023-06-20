@@ -26,7 +26,7 @@
   "dependencies": {
     "aws-post-to-connection": "^0.1.21",
     "is-lambda": "1.0.1",
-    "ws": "7.4.0"
+    "ws": ">=8.13.0"
   },
   "devDependencies": {
     "tap": "14.11.0"
